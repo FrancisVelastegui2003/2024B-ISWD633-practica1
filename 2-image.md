@@ -3,8 +3,8 @@ Es un archivo único que contiene todos los programas, librerías, dependencias 
 ![Imagen](img/imagen.PNG)
 
 
-## ¿Cuál es la relación entre una imagen y un contenedor? 
-# COMPLETAR 
+## ¿Cuál es la relación entre una imagen y un contenedor?  
+Una imagen es un archivo estático que contiene todo lo necesario para ejecutar una aplicación, como programas, librerías y configuraciones, mientras que un contenedor es una instancia en ejecución de esa imagen. La imagen actúa como una plantilla que, al iniciarse, se convierte en un contenedor, el cual es un entorno aislado y activo que ejecuta la aplicación según lo especificado en la imagen. 
 
 ![Imagen y contenedores](img/imagenContenedores.JPG)
 ## Comandos para imágenes
