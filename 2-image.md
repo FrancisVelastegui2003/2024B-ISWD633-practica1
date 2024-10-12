@@ -29,6 +29,7 @@ docker pull hello-world
 ```
 
 **¿Qué es nginx?**
+
 Nginx es un servidor web que destaca por su eficiencia al manejar múltiples conexiones simultáneas. En docker, nginx contiene una versión preconfigurada del servidor web Nginx. Al usar la imagen de Nginx, se puede desplegar fácilmente servidores web o proxies inversos dentro de un entorno aislado y replicable, lo que facilita su gestión y escalabilidad. 
 
 Descargar la imagen  **nginx** en la versión **alpine**
